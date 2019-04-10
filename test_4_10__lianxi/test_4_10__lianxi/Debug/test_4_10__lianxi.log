@@ -1,0 +1,4 @@
+﻿  reverse_string.c
+d:\比特\vs2013\我的代码\test_4_10__lianxi\test_4_10__lianxi\reverse_string.c(7): warning C4142: 类型的良性重定义
+d:\比特\vs2013\我的代码\test_4_10__lianxi\test_4_10__lianxi\reverse_string.c(7): warning C4028: 形参 1 与声明不同
+  test_4_10__lianxi.vcxproj -> D:\比特\VS2013\我的代码\test_4_10__lianxi\Debug\test_4_10__lianxi.exe
